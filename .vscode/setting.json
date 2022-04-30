@@ -12,7 +12,7 @@
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "editor.insertSpaces": true,
-  "editor.lineNumbers": "on", // 开启行数提示
+  "editor.lineNumbers": "on",
   "editor.minimap.maxColumn": 80,
   "editor.minimap.renderCharacters": false,
   "editor.minimap.showSlider": "always",
@@ -27,7 +27,7 @@
   "editor.renderWhitespace": "all",
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
-  "editor.wordWrap": "on", // 自动折行
+  "editor.wordWrap": "on",
   "editor.wordWrapColumn": 180,
   "editor.codeActionsOnSave": {
     "source.fixAll": false,
@@ -39,13 +39,11 @@
   "explorer.confirmDragAndDrop": false,
   "window.autoDetectColorScheme": true,
   "window.dialogStyle": "custom",
-  "window.nativeTabs": true,
   "window.titleBarStyle": "custom",
   "workbench.activityBar.visible": true,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.tabCloseButton": "left",
-  "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
   "workbench.sideBar.location": "left",
   "workbench.startupEditor": "newUntitledFile",
@@ -74,5 +72,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "vscode-great-icons",
-  "GitCommitPlugin.ShowEmoji": false
+  "GitCommitPlugin.ShowEmoji": false,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorCustomizations": {}
 }
