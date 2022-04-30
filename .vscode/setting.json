@@ -7,16 +7,13 @@
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.guides.bracketPairs": "active",
-  "editor.fontWeight": "normal",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
-  "editor.insertSpaces": true,
-  "editor.lineNumbers": "on",
   "editor.minimap.maxColumn": 80,
   "editor.minimap.renderCharacters": false,
   "editor.minimap.showSlider": "always",
-  "editor.suggestSelection": "first",
+  "editor.suggestSelection": "recentlyUsed",
   "editor.snippetSuggestions": "top",
   "editor.quickSuggestions": {
     "comments": true,
@@ -66,13 +63,9 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
   "scm.diffDecorationsGutterWidth": 2,
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
   "workbench.colorTheme": "GitHub Dark Default",
-  "workbench.iconTheme": "vscode-great-icons",
-  "GitCommitPlugin.ShowEmoji": false,
-  "tabnine.experimentalAutoImports": true,
-  "workbench.colorCustomizations": {}
+  "workbench.iconTheme": "vscode-great-icons"
 }
