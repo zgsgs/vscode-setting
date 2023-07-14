@@ -372,14 +372,6 @@
   ],
   // 普通模式下非递归绑定按键 相当于 vim 中的 noremap
   "vim.normalModeKeyBindingsNonRecursive": [
-    // {
-    //   "before": [
-    //     "<space>"
-    //   ],
-    //   "commands": [
-    //     "whichkey.show"
-    //   ]
-    // },
     { // 屏幕『向上』移动一页
       "before": [
         "{"
